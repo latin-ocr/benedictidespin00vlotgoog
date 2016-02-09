@@ -1,0 +1,44 @@
+274
+
+pro P N M (quippe etiam refractionis) angulo positis, an-
+gulus Ο N M = x -ι- y. Jam absolut-o etiam triangulo
+F L K, angulus F L K ¹) etiam = ,τ -1- y. Patet porro,
+angulum F K L etiam esse = σ, uti imperitorum in usum
+infra demonstfabimuffi et angulus L F K = y‚· a: igitur
+÷ 23] -1- c=2a²)‚ ideoque ,τ sive ONP=2a-
+2 y ÷ σ. Jam arcus G K, tanquam arcuum F K et F G
+differentia ‚ soil. e — b, sive angulus G O K ad centrum
+usque productus. duplo major ³) angulo G F K ad eircum-
+
+ferentiam producto: Gr F K itaque = ’ἑξ-ὸ, sed G F K τ·- y,
+
+itaque y=⁶-}¹-’et 2y=0-b‚ et— 2y=-—c÷b. His
+
+igitur — c ÷⁴b‚ in comparatione supra dieta, loeo — 2 y
+positiS, Ο Ν Ρ sive a: = b -ι- 2 a —- 2 e, uti seeundum
+regulam ponebatur et quod demonstrandum erat.
+
+Si porro aliquis dubitare vellet, num angulus F K L, uti et
+angulus Q. N M, aequalis sit arcui F K sive c, scil. angulo
+F C K, hujus demonstratio sie procedit: Anguli C F K et
+C K F eum inter se aequales sint 4) propter triangulum
+aequicrurum C K F, sequitur illos simul aequales esse duplici
+cujusque se. angulo F K N 5); sed anguli C F K et C KF
+cum angulo‘F G K0) sive e, 180 gradus sive duo angulos
+rectos efficit; et F K N , iisdem rectis aequalis , cum F K L
+
+1) Per 29m prioris.
+
+2) Per 32m.
+
+3) Per 2οω tertii.
+
+4) Per 5m prioris.
+
+5) Per reflectionis proprietatem.
+6) Per 32ιιι prioris.
+
+ 
+
+ 
+
